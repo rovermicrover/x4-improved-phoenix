@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content name="Improved Phoenix" description="Impoves the Phoenix in sector ability by moving its large turrets to the front and giving it more missile capacity." author="RoverTX" version="100" date="2019-10-31">
+<content name="Improved Phoenix" description="Impoves the Phoenix in sector ability by moving its large turrets to the front and giving it more missile capacity." author="RoverTX" version="100" date="2019-10-31" save="0">
   <text language="44" name="Improved Phoenix" description="Impoves the Phoenix in sector ability by moving its large turrets to the front and giving it more missile capacity." author="RoverTX"/>
 </content>
