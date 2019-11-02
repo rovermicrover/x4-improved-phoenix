@@ -18,7 +18,7 @@ This mod seeks to make the Phoenix better in sector by
 
 # Links
 
-[Egosoft Forum]()
+[Egosoft Forum](https://forum.egosoft.com/viewtopic.php?f=181&t=419740)
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1904395980)
 
