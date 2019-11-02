@@ -20,7 +20,7 @@ This mod seeks to make the Phoenix better in sector by
 
 [Egosoft Forum]()
 
-[Steam Workshop]()
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1904395980)
 
 [Github](https://github.com/rovermicrover/x4-improved-phoenix)
 
